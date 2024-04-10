@@ -19,8 +19,8 @@ public class MockServerDevUIProcessor {
       int mockStubsSize = mockStubs.size();
 
       cardPageBuildItem.addPage(Page.externalPageBuilder("Github")
-            .url("https://github.com/mcruzdev/mock-server-devconverge",
-                  "https://github.com/mcruzdev/mock-server-devconverge").icon("font-awesome-solid:file-lines"));
+            .url("https://github.com/mcruzdev/quarkus-mock-server",
+                  "https://github.com/mcruzdev/quarkus-mock-server").icon("font-awesome-solid:file-lines"));
 
       cardPageBuildItem.addPage(Page.tableDataPageBuilder("Mock stubs").showColumn("path").showColumn("responseBody")
             .showColumn("httpMethodName").showColumn("responseStatusCode").buildTimeDataKey("mockStubs")

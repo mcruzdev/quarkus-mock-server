@@ -2,6 +2,13 @@
 
 [![Version](https://img.shields.io/maven-central/v/io.quarkiverse/quarkus-mock-server?logo=apache-maven&style=flat-square)](https://search.maven.org/artifact/io.quarkiverse/quarkus-mock-server)
 
+## Events
+
+### DevConverge LATAM Floripa
+![devconverge-april.png](devconverge-april/img.png)
+--
+Youtube https://www.youtube.com/watch?v=xR0y-AVjfjIz
+
 ## Welcome to Quarkiverse!
 
 Congratulations and thank you for creating a new Quarkus extension project in Quarkiverse!
